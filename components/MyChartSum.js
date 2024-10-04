@@ -78,7 +78,7 @@ export default function MyChartSum() {
     
       return (
         <div>
-          <h4>Vertical bar chart showing price by type</h4>
+          <h4>Vertical bar chart showing price by types</h4>
           <Bar options={options} data={data} />
         </div>
       );
